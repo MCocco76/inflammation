@@ -5,3 +5,5 @@ We may need to bring a third person with Python or R programming skills on board
 The third team member needs to be competent in both Python and R. They
 also need to be familiar with matplotlib and ggplot
 
+
+Here are some additions
